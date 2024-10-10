@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @sagarshah-9815
-- 👀 I’m interested in ...Flutter 
+- 👀 I’m interested in Flutter 
 - 🌱 I’m currently learning BCA and Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on Flutter projects
+- 📫 How to reach me:
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-kumar-sahu-teli-3721a9247/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sagarshah_im/)
 
 
 <!---
