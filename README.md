@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagarshah-9815
 - 👀 I’m interested in Flutter 
-- 🌱 Graduated BCA and Flutter
+- 🌱 Graduated BCA.
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me:
 
